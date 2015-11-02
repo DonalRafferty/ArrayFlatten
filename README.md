@@ -1,6 +1,6 @@
 # Array Flatten Exercise
 
-This is a simple Nodejs application that is an exercise in writing a utility function to taske nested array items and turn them into a simple flat array.
+This is a simple Nodejs application that is an exercise in writing a utility function to take nested array items and turn them into a simple flat array.
 
 ## Dependcies
 
