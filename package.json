@@ -1,7 +1,7 @@
 {
   "name": "ArrayFlattenExample",
   "version": "0.0.1",
-  "description": "",
+  "description": "A simple example of an array flattening function in JavaScript (Nodejs project)",
   "main": "main.js",
   "author": "Donal Rafferty",
   "config": {
